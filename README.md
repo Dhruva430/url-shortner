@@ -96,7 +96,7 @@ Contributions are always welcome!
 
 ## Authors
 
-- [@Wiper-R](https://www.github.com/Wiper-R)
+- [@Dhruva430](https://www.github.com/Dhruva430)
 
 
 ## License
