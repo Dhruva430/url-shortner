@@ -58,7 +58,7 @@ https://shortcut-theta.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Wiper-R/shortcut
+  git clone https://github.com/Dhruva430/url-shortner
 ```
 
 
